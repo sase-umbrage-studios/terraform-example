@@ -1,5 +1,4 @@
-export const handler = () => {
-  console.log('here')
+exports.handler = async () => {
   return {
     statusCode: 200,
     body: "Hello World!"

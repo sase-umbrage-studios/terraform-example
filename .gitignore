@@ -2,3 +2,5 @@
 /.env
 /dist
 /.terraform*
+/terraform.tfstate
+/output.txt
